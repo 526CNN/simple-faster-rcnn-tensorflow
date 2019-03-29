@@ -1,4 +1,4 @@
-# Object Detection [Faster R-CNN](https://arxiv.org/abs/1506.01497) Simple Implementation
+# Object Detection [Faster R-CNN](https://arxiv.org/abs/1506.01497) Simple Implementation in TensorFlow
 
 > version 0.0.0
 
